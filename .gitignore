@@ -2,3 +2,4 @@ node_modules/
 publish.sh
 todo.md
 bower_components/
+.sass-cache/
